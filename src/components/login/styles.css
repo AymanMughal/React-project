@@ -1,0 +1,19 @@
+
+.login_container {
+  max-width: 90%;
+  margin: auto;
+}
+.login_flex {
+  display: flex;
+  flex-direction: column; 
+}
+.login_section {
+    background: #f6f9fc;
+    height: auto;
+    padding: 50px 0;
+    justify-content: center;
+}
+
+
+
+  
